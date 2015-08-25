@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/yyx990803/vue-hackernews.git"
+    "url": "https://github.com/104gogo/hcb-orderfood-frame.git"
   },
   "author": "Evan You",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/yyx990803/vue-hackernews/issues"
+    "url": "https://github.com/104gogo/hcb-orderfood-frame/issues"
   },
-  "homepage": "https://github.com/yyx990803/vue-hackernews",
+  "homepage": "https://github.com/104gogo/hcb-orderfood-frame",
   "devDependencies": {
     "body-parser": "^1.13.3",
     "css-loader": "^0.14.4",
